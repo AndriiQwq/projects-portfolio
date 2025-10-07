@@ -1,4 +1,4 @@
-# Projects Portfolio
+# Projects
 
 Although I do not yet have experience working in large companies on major projects, I have gained substantial practical experience by completing personal and university projects that required considerable time and effort. Each project helped me develop concrete skills and broaden my knowledge — I enjoyed testing myself and learning technologies that will be useful in the future. This is not an exhaustive list of my work, but I hope you find projects here that interest you.
 
